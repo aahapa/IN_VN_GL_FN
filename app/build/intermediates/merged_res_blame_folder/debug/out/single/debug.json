@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.superadtech.adsmodel.app-merged_res-42:/layout_activity_m.xml.flat",
+        "source": "com.superadtech.adsmodel.app-main-44:/layout/activity_m.xml"
+    },
+    {
+        "merged": "com.superadtech.adsmodel.app-merged_res-42:/layout_banner_ad.xml.flat",
+        "source": "com.superadtech.adsmodel.app-main-44:/layout/banner_ad.xml"
+    },
+    {
+        "merged": "com.superadtech.adsmodel.app-merged_res-42:/drawable_logo.xml.flat",
+        "source": "com.superadtech.adsmodel.app-main-44:/drawable/logo.xml"
+    },
+    {
+        "merged": "com.superadtech.adsmodel.app-merged_res-42:/layout_native_ad.xml.flat",
+        "source": "com.superadtech.adsmodel.app-main-44:/layout/native_ad.xml"
+    },
+    {
+        "merged": "com.superadtech.adsmodel.app-merged_res-42:/layout_activity_main2.xml.flat",
+        "source": "com.superadtech.adsmodel.app-main-44:/layout/activity_main2.xml"
+    }
+]

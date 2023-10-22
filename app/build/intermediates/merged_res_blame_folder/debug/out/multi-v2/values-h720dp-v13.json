@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.superadtech.adsmodel.app-mergeDebugResources-40:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\harry\\.gradle\\caches\\transforms-3\\170c9ed954eb9b0f1077b30dbbabc52b\\transformed\\appcompat-1.6.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

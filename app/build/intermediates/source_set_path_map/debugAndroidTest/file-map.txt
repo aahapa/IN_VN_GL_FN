@@ -1,0 +1,9 @@
+com.superadtech.adsmodel.test.app-jetified-core-1.5.0-0 C:\Users\harry\.gradle\caches\transforms-3\6a8da0922843fd148134b5a53289f51a\transformed\jetified-core-1.5.0\res
+com.superadtech.adsmodel.test.app-jetified-annotation-experimental-1.3.0-1 C:\Users\harry\.gradle\caches\transforms-3\fbe68bd52416fe7223b850c886acac17\transformed\jetified-annotation-experimental-1.3.0\res
+com.superadtech.adsmodel.test.app-androidTest-2 C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\app\build\generated\res\resValues\androidTest\debug
+com.superadtech.adsmodel.test.app-androidTest-3 C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\app\build\generated\res\rs\androidTest\debug
+com.superadtech.adsmodel.test.app-mergeDebugAndroidTestResources-4 C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.superadtech.adsmodel.test.app-mergeDebugAndroidTestResources-5 C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.superadtech.adsmodel.test.app-merged_res-6 C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\app\build\intermediates\merged_res\debugAndroidTest
+com.superadtech.adsmodel.test.app-androidTest-7 C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\app\src\androidTest\res
+com.superadtech.adsmodel.test.app-androidTestDebug-8 C:\Users\harry\Desktop\VPN_Google_Facebook_Ad_Classs\app\src\androidTestDebug\res

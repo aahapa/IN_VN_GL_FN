@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="AppTheme.Transparent" parent="Theme.AppCompat.Translucent">
+        <!-- Customize theme attributes as needed -->
+    </style>
+
+</resources>
